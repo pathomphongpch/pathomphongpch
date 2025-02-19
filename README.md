@@ -15,7 +15,7 @@
 👨‍💻 Hello! My name is **Pathomphong Chaichuay** (Pang).  
 🎓 I'm a third-year Software Engineering student at **Mae Fah Luang University**.  
 💡 I enjoy creating web applications and exploring new programming languages and technologies in frontend development.  
-- 🔝 Currently working on [**mango-bruise-area**]([(https://github.com/WoraphatSriwichai/BruiseTracker))  
+- 🔝 Currently working on [**mango-bruise-area**](https://github.com/WoraphatSriwichai/BruiseTracker)  
 - 🌱 Learning **React.js** to develop web applications for detecting mango bruising areas.  
 - 📧 Reach me at: **6531503110@lamduan.mfu.ac.th**  
 - 👤 Connect with me on [**LinkedIn**](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgwhcOp9GRE6BACRsVA6gcA%3D%3D)
