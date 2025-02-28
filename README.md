@@ -25,17 +25,13 @@
 
 
 ### Languages and Frameworks
-
-<h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </p>
 
 
 ### Tools and Platforms
-<h3 align="left">Tools and Platforms:</h3>
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Development" width="40" height="40"/> <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> </p>
 ---
 ### GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathomphongpch&layout=compact&theme=tokyonight)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathomphongpch&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 
