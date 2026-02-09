@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pathomphong Chaichuay (Pang)</h1>
-<h3 align="center">A Passionate Frontend Developer | Third-Year Software Engineering Student</h3>
+<h3 align="center">A Passionate Frontend Developer | Fourth-Year Software Engineering Student</h3>
 <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" /> </div>
 
 ---
